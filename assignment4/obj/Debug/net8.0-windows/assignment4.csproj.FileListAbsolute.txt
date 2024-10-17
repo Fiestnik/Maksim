@@ -1,0 +1,16 @@
+C:\Users\maksi\source\repos\assignment4\bin\Debug\net8.0-windows\assignment4.exe
+C:\Users\maksi\source\repos\assignment4\bin\Debug\net8.0-windows\assignment4.deps.json
+C:\Users\maksi\source\repos\assignment4\bin\Debug\net8.0-windows\assignment4.runtimeconfig.json
+C:\Users\maksi\source\repos\assignment4\bin\Debug\net8.0-windows\assignment4.dll
+C:\Users\maksi\source\repos\assignment4\bin\Debug\net8.0-windows\assignment4.pdb
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.Form1.resources
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.AssemblyInfo.cs
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.dll
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\refint\assignment4.dll
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.pdb
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\assignment4.genruntimeconfig.cache
+C:\Users\maksi\source\repos\assignment4\obj\Debug\net8.0-windows\ref\assignment4.dll
