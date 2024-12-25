@@ -1,0 +1,16 @@
+C:\Users\maksi\source\repos\Final_project\bin\Debug\net8.0-windows\Final_project.exe
+C:\Users\maksi\source\repos\Final_project\bin\Debug\net8.0-windows\Final_project.deps.json
+C:\Users\maksi\source\repos\Final_project\bin\Debug\net8.0-windows\Final_project.runtimeconfig.json
+C:\Users\maksi\source\repos\Final_project\bin\Debug\net8.0-windows\Final_project.dll
+C:\Users\maksi\source\repos\Final_project\bin\Debug\net8.0-windows\Final_project.pdb
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.Form1.resources
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.AssemblyInfo.cs
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.dll
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\refint\Final_project.dll
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.pdb
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\Final_project.genruntimeconfig.cache
+C:\Users\maksi\source\repos\Final_project\obj\Debug\net8.0-windows\ref\Final_project.dll
